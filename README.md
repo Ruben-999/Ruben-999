@@ -7,6 +7,9 @@ I like building systems end to end — from a microcontroller talking on a CAN b
 - **Currently:** evolving a microservices system to CQRS with asynchronous AMQP messaging
 - **Looking for:** a curricular internship (February–July 2027) in Porto
 
+<a href="https://www.linkedin.com/in/ruben-remelhe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+<a href="mailto:rubenremelhe999@gmail.com"><img src="https://img.shields.io/badge/Email-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 ### Featured projects
 
 | Project | What it is | Stack |
@@ -31,7 +34,3 @@ I like building systems end to end — from a microcontroller talking on a CAN b
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,react,supabase&perline=10" alt="Arduino, Raspberry Pi, React Native, Supabase" />
 
 **Networking & security:** TCP/IP · IPv4/IPv6 · VLANs · OPNsense · VPN · mTLS/PKI
-
-### Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/ruben-remelhe) · [rubenremelhe999@gmail.com](mailto:rubenremelhe999@gmail.com)
