@@ -17,7 +17,7 @@ I like building systems end to end — from a microcontroller talking on a CAN b
 | **AISafe** | Distributed flight-management system: a Spring Boot monolith split into 6 replicated microservices with a database per replica, retries, circuit breakers, a Saga and mTLS | Java · Spring Boot · PostgreSQL · Docker |
 | **Edge-to-Cloud IoT** | Virtualized lab (Proxmox, K3s) with an IPv6 VLAN network behind OPNsense, MQTT over TLS and a store-and-forward bridge to Azure IoT Hub | Kubernetes · Proxmox · OPNsense · Python · Azure |
 | **Smart Station** | Interrupt-driven firmware on an Infineon XMC4200: ToF and environmental sensors over I²C, Bluetooth control, telemetry on a CAN bus (DBC) | C · CAN · I²C · Embedded |
-| **PingMe** | Mobile app for reminders, lists and categories with time-based and geolocation-triggered notifications | React Native · TypeScript · Expo · Supabase |
+| [**PingMe**](https://github.com/Ruben-999/PingMe) | Mobile app for reminders, lists and categories with time-based and geolocation-triggered notifications | React Native · TypeScript · Expo · Supabase |
 
 ### Tech I work with
 
